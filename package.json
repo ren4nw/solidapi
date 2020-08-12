@@ -5,6 +5,9 @@
   "repository": "https://github.com/ren4nw/solidapi.git",
   "author": "Your Name <you@example.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev --transpile-only --respawn --ignore-watch node_modules src/server.ts"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
