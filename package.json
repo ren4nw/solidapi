@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/ren4nw/solidapi.git",
   "author": "Your Name <you@example.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.56",
+    "typescript": "^3.9.7"
+  }
 }
