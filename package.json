@@ -1,0 +1,8 @@
+{
+  "name": "solidapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ren4nw/solidapi.git",
+  "author": "Your Name <you@example.com>",
+  "license": "MIT"
+}
